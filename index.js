@@ -16,7 +16,7 @@ let sum = add(7,9)
 function multiply(num1, num2){
     return(num1 * num2)
 } 
-multiply(12, 5)
+
 let answer = multiply(12, 5)
 function combine(add, multiply){
     return(add + multiply)
