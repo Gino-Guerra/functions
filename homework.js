@@ -1,6 +1,7 @@
 function divide(num1, num2){
     const result = num1 / num2 
-    return result
+    const result2 = num1 + " ÷ " + num2 + " = " + result
+    return result2
 }
 
 function remainder(num1, num2){
